@@ -15,3 +15,4 @@ getNodeTypesPath = getDataFileName "vendor/tree-sitter-go/src/node-types.json"
 
 getTestCorpusDir :: IO FilePath
 getTestCorpusDir = getDataFileName "vendor/tree-sitter-go/corpus"
+Control + Shift + m
